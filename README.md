@@ -1,2 +1,2 @@
 # odin-recipes
-Hello! This is my first website.
+This is my first ever website. I'm following the Odin Project to learn the basics of web development. In this project I put into practice a good few basic concepts of HTML programming, including; titles, headings, paragraphs, links, images and ordered/unordered lists.
